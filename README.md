@@ -98,3 +98,11 @@ JupyterLab opens in your browser. Double-click `Layer5_Generative_AI.ipynb` to o
 ## Source
 
 Programs and explanations are from *The Seven Layers of AI* study guide, Chapter 6. Citations in the code and text refer to the guide's reference list.
+
+## License
+
+The code in this repository (notebook code cells, scripts and `requirements.txt`) is released under the [MIT License](LICENSE).
+
+The written content (explanations, exercises, Markdown files and study guide documents) is licensed under [CC BY-NC 4.0](LICENSE-CONTENT.md): you may share and adapt it for non-commercial use with credit, but not sell it or use it in paid courses or products.
+
+Copyright © 2026 Trevor Smith.
